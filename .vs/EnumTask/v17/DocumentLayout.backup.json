@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\EnumTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F6AF13-14BA-4F3B-A418-A419D49C3EFD}|..\\core\\core.csproj|c:\\users\\hp\\source\\repos\\core\\helper\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01535C11-32AA-4EAD-933A-3DD8F13C2BA2}|EnumTask\\EnumTask.csproj|c:\\users\\hp\\source\\repos\\enumtask\\enumtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01535C11-32AA-4EAD-933A-3DD8F13C2BA2}|EnumTask\\EnumTask.csproj|solutionrelative:enumtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F6AF13-14BA-4F3B-A418-A419D49C3EFD}|..\\core\\core.csproj|c:\\users\\hp\\source\\repos\\core\\helper\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F6AF13-14BA-4F3B-A418-A419D49C3EFD}|..\\core\\core.csproj|c:\\users\\hp\\source\\repos\\core\\helper\\exceptions\\pricemustbegretherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F6AF13-14BA-4F3B-A418-A419D49C3EFD}|..\\core\\core.csproj|c:\\users\\hp\\source\\repos\\core\\helper\\enum\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\core\\Helper\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "..\\core\\Helper\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\core\\Helper\\Models\\Store.cs",
+              "RelativeToolTip": "..\\core\\Helper\\Models\\Store.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwv0YAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:12:38.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\core\\Helper\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\core\\Helper\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\core\\Helper\\Models\\Product.cs",
+              "RelativeToolTip": "..\\core\\Helper\\Models\\Product.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:25:18.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\core\\Helper\\Enum\\Types.cs",
+              "RelativeDocumentMoniker": "..\\core\\Helper\\Enum\\Types.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\core\\Helper\\Enum\\Types.cs",
+              "RelativeToolTip": "..\\core\\Helper\\Enum\\Types.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:08:43.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceMustBeGretherThanZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\core\\Helper\\exceptions\\PriceMustBeGretherThanZeroException.cs",
+              "RelativeDocumentMoniker": "..\\core\\Helper\\exceptions\\PriceMustBeGretherThanZeroException.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\core\\Helper\\exceptions\\PriceMustBeGretherThanZeroException.cs",
+              "RelativeToolTip": "..\\core\\Helper\\exceptions\\PriceMustBeGretherThanZeroException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:08:22.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EnumTask\\EnumTask\\Program.cs",
+              "RelativeDocumentMoniker": "EnumTask\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EnumTask\\EnumTask\\Program.cs",
+              "RelativeToolTip": "EnumTask\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:39:22.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
